@@ -5,6 +5,22 @@
 
   https://www.sciencedirect.com/science/article/pii/S0968090X19303493
 
+- How to measure the impacts of shared automated electric vehicles on urban mobility
+
+  https://www.sciencedirect.com/science/article/pii/S1361920921000705
+
+- The role of shared autonomous vehicle systems in delivering smart urban mobility: A systematic review of the literature
+
+  https://www.tandfonline.com/doi/full/10.1080/15568318.2020.1798571
+
+- Mobility and Energy Impacts of Shared Automated Vehicles: a Review of Recent Literature
+
+  https://link.springer.com/article/10.1007/s40518-019-00135-2
+
+- A systematic review of agent-based models for autonomous vehicles in urban mobility and logistics: Possibilities for integrated simulation models
+
+  https://www.sciencedirect.com/science/article/pii/S0198971521000934
+
 #### SAEV and traffic accessibility
 - The opportunity of shared autonomous vehicles to improve spatial equity in accessibility and socio-economic developments in european urban areas
 
@@ -130,3 +146,5 @@
 - How uncertain is the future of electric vehicle market: Results from Monte Carlo simulations using a nested logit model
 
   https://www.tandfonline.com/doi/full/10.1080/15568318.2016.1248583
+
+### Predict then Optimize
