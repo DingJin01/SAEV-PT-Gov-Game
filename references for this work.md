@@ -1,11 +1,11 @@
 ### SAEV Related
 
-#### SAEV review:
+#### SAEV review
 - Shared autonomous vehicle services: A comprehensive review
 
   https://www.sciencedirect.com/science/article/pii/S0968090X19303493
 
-#### SAEV and traffic accessibility:
+#### SAEV and traffic accessibility
 - The opportunity of shared autonomous vehicles to improve spatial equity in accessibility and socio-economic developments in european urban areas
 
   https://link.springer.com/article/10.1186/s12544-021-00484-4
@@ -94,7 +94,12 @@
 
   https://ieeexplore.ieee.org/abstract/document/10294915
 
-### Game Theory Related:
+#### Charging Station Placement
+- Optimal Siting and Sizing of Electric Vehicle Energy Supplement Infrastructure in Highway Networks
+
+  https://www.mdpi.com/2411-5134/8/5/117
+
+### Game Theory Related
 
 - Equilibrium points in n-person games
 
@@ -108,7 +113,7 @@
 
   https://www.sciencedirect.com/science/article/pii/S0968090X21000863
 
-### MNL:
+### MNL
 
 - Conditional logit analysis of qualitative choice behavior
 
