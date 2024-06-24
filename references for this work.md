@@ -157,4 +157,43 @@
 
   https://www.tandfonline.com/doi/full/10.1080/15568318.2016.1248583
 
-### Predict then Optimize
+### Applied Energy Sample Papers
+
+#### XJTLU work
+
+- A novel adaptive penalty mechanism for Peer-to-Peer energy trading
+
+  https://www.sciencedirect.com/science/article/pii/S0306261922013824
+
+- Sensor network based PV power nowcasting with spatio-temporal preselection for grid-friendly control
+
+  https://www.sciencedirect.com/science/article/pii/S0306261919314473
+
+#### Virtual Energy Station and Stackelberg game
+
+- Exergy-driven optimal operation of virtual energy station based on coordinated cooperative and Stackelberg games
+
+  https://www.sciencedirect.com/science/article/pii/S0306261924001533
+
+#### EV-market-game
+- Research on the pricing strategy of park electric vehicle agent considering carbon trading
+
+  https://www.sciencedirect.com/science/article/pii/S0306261923003811
+
+- A stochastic game-theoretic optimization approach for managing local electricity markets with electric vehicles and renewable sources
+
+  https://www.sciencedirect.com/science/article/pii/S0306261924009012
+
+- Comparative study on electricity transactions between multi-microgrid: A hybrid game theory-based peer-to-peer trading in heterogeneous building communities considering electric vehicles
+  
+  https://www.sciencedirect.com/science/article/pii/S0306261924008420
+
+#### EV-player-game
+
+- Electric vehicle charging stations' installing strategies: Considering government subsidies
+
+  https://www.sciencedirect.com/science/article/pii/S0306261924009358
+
+- A three-layer game theoretic-based strategy for optimal scheduling of microgrids by leveraging a dynamic demand response program designer to unlock the potential of smart buildings and electric vehicle fleets
+
+  https://www.sciencedirect.com/science/article/pii/S0306261923008048
