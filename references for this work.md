@@ -115,6 +115,16 @@
 
   https://www.mdpi.com/2411-5134/8/5/117
 
+#### SAEV-PT Integration
+
+- On the Interaction between Autonomous Mobility-on-Demand and Public Transportation Systems
+
+  https://ieeexplore.ieee.org/document/8569381
+
+- Integrating shared autonomous vehicle in public transportation system: A supply-side simulation of the first-mile service in Singapore
+
+  https://www.sciencedirect.com/science/article/pii/S096585641730681X
+
 ### Game Theory Related
 
 - Equilibrium points in n-person games
